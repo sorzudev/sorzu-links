@@ -6,7 +6,7 @@
 
 ## Encuentranos en nuesvas redes sociales
 
-`Facebook` (https://fb.com/sorzudev) <br/><br/>
-`Twitter` (https://twitter.com/sorzudev) <br/><br/>
-`Instagram` (https://instagram.com/sorzudev) <br/><br/>
-`YouTube` (https://www.youtube.com/channel/UCYqHYu0S6knon0wSOZgTeSw) <br/><br/>
+`Facebook` https://fb.com/sorzudev <br/><br/>
+`Twitter` https://twitter.com/sorzudev <br/><br/>
+`Instagram` https://instagram.com/sorzudev <br/><br/>
+`YouTube` https://www.youtube.com/channel/UCYqHYu0S6knon0wSOZgTeSw <br/><br/>
