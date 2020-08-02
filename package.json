@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "prod-flag": "ng build --prod --base-href 'https://briaansz.github.io/sorzu-links/'"
+    "prod-flag": "ng build --prod --base-href 'https://sorzudev.github.io/sorzu-links/'"
   },
   "private": true,
   "dependencies": {
