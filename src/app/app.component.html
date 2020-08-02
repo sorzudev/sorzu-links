@@ -1,1 +1,33 @@
-<h1>SorzuDev</h1>
+<mat-grid-list cols="4" rowHeight="300px">
+  <mat-grid-tile [colspan]="4" [rowspan]="1">
+    <img src="assets/logos/sorzu.gif" class="sorzu">
+  </mat-grid-tile>
+</mat-grid-list>
+
+<mat-grid-list cols="4" rowHeight="100px">
+  <mat-grid-tile [colspan]="4" [rowspan]="1" *ngFor="let link of socialLinks">
+    <div class="container" (click)="openUrl(link?.url)">
+      <div>
+        <img class="logo" alt="YouTube" data-type="image" [src]="link?.img">
+      </div>
+      <div>
+        <h1 class="text">
+          {{ link?.name }}
+        </h1>
+      </div>
+    </div>
+  </mat-grid-tile>
+</mat-grid-list>
+
+<!-- <ng-container *ngFor="let link of socialLinks">
+  <div class="container" (click)="openUrl(link?.url)">
+    <div>
+      <img class="logo" alt="YouTube" data-type="image" [src]="link?.img">
+    </div>
+    <div>
+      <h1 class="text">
+        {{ link?.name }}
+      </h1>
+    </div>
+  </div>
+</ng-container> -->
